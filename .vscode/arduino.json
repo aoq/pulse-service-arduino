@@ -1,0 +1,6 @@
+{
+    "sketch": "pulse-service-arduino.ino",
+    "port": "COM4",
+    "board": "adafruit:avr:feather32u4",
+    "output": "./build/"
+}
